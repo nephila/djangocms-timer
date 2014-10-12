@@ -6,7 +6,7 @@ from django.utils.timezone import now
 from django.utils.translation import ugettext_lazy as _
 from cms.api import add_plugin
 from cms.plugin_rendering import render_placeholder
-from djangocms_helper.test_base import BaseTestCase
+from djangocms_helper.base_test import BaseTestCase
 
 
 class TestPlugin(BaseTestCase):

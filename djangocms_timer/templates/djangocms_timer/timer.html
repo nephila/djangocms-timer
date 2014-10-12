@@ -1,0 +1,7 @@
+{% load cms_tags %}{% spaceless %}
+{% if instance %}
+{% for plugin in instance.child_plugin_instances %}
+	{% with forloop as parentloop %}{% render_plugin plugin %}{% endwith %}
+{% endfor %}
+{% endif %}
+{% endspaceless %}

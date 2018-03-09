@@ -2,7 +2,7 @@
 djangocms-timer
 ===============
 
-.. image:: https://pypip.in/v/djangocms-timer/badge.png
+.. image:: https://img.shields.io/pypi/v/djangocms-timer.svg
         :target: https://pypi.python.org/pypi/djangocms-timer
         :alt: Latest PyPI version
 
@@ -10,7 +10,7 @@ djangocms-timer
         :target: https://travis-ci.org/nephila/djangocms-timer
         :alt: Latest Travis CI build status
 
-.. image:: https://pypip.in/d/djangocms-timer/badge.png
+.. image:: https://img.shields.io/pypi/dm/djangocms-timer.svg
         :target: https://pypi.python.org/pypi/djangocms-timer
         :alt: Monthly downloads
 
